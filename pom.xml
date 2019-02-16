@@ -61,6 +61,7 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <configuration>
                     <goals>install</goals>
+                    <autoVersionSubmodules>true</autoVersionSubmodules>
                 </configuration>
             </plugin>
         </plugins>
@@ -69,8 +70,7 @@
     <!-- to maven release plugin -->
     <scm>
         <developerConnection>scm:git:https://github.com/alexandrenilton/sfg-pet-clinic.git</developerConnection>
-
-      <tag>HEAD</tag>
-  </scm>
+        <tag>HEAD</tag>
+    </scm>
 
 </project>
