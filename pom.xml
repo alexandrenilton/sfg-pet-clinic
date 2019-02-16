@@ -5,7 +5,7 @@
 
     <groupId>com.springframework5</groupId>
     <artifactId>spg-pet-clinic</artifactId>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
     <name>spg-pet-clinic</name>
     <description>Pet Clinic built on SF</description>
 
@@ -70,7 +70,7 @@
     <scm>
         <developerConnection>scm:git:https://github.com/alexandrenilton/sfg-pet-clinic.git</developerConnection>
 
-      <tag>spg-pet-clinic-1.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
