@@ -15,7 +15,7 @@
         <dependency>
             <artifactId>pet-clinic-data</artifactId>
             <groupId>com.springframework5</groupId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>1.2-SNAPSHOT</version>
         </dependency>
 
         <!-- Others -->
